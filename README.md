@@ -132,7 +132,7 @@ A suíte inclui 23 testes unitários e de integração cobrindo 100% das regras 
 
 ### Documentação (Swagger UI)
 Com a aplicação rodando, acesse a documentação interativa para teste de rotas em:
-👉 **`http://localhost:8080/swagger-ui.html`**
+👉 **`http://localhost:8080/coupon-management-api/swagger-ui.html`**
 
 ### Banco de Dados (H2 Console)
 Para inspecionar as tabelas criadas em memória pelo JPA:
